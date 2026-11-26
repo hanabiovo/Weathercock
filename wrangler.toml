@@ -1,0 +1,18 @@
+name = "weathercock"
+main = "src/index.ts"
+compatibility_date = "2026-01-01"
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+run_worker_first = ["/api/*"]
+
+# ============================================================
+# 可选：跨设备云同步（默认关闭，不绑定任何个人资源）
+# 如需启用，取消下方注释，创建 KV 命名空间并设置 ACCESS_TOKEN Secret：
+#   npx wrangler kv namespace create MONITOR_KV
+#   npx wrangler secret put ACCESS_TOKEN
+# ============================================================
+# [[kv_namespaces]]
+# binding = "MONITOR_KV"
+# id = "YOUR_KV_NAMESPACE_ID"

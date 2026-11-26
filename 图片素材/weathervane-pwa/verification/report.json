@@ -1,0 +1,332 @@
+{
+  "source_dimensions": [
+    1254,
+    1254
+  ],
+  "source_sha256": "5e194cae7dfa8ce5da3820ae3a0e9a6901cdd3d22a195cd3ece415f3203282f5",
+  "reference_alpha_threshold": 128,
+  "iou": 0.9964469337737759,
+  "edge_mean_px": 0.12098148465156555,
+  "edge_p95_px": 1.0,
+  "edge_max_px": 1.0,
+  "svg_path_count": 1,
+  "maskable_scale": 0.8288886833885468,
+  "files": [
+    {
+      "file": "apple/apple-touch-icon-dark.png",
+      "size": [
+        180,
+        180
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "apple/apple-touch-icon-light.png",
+      "size": [
+        180,
+        180
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "apple-touch-icon.png",
+      "size": [
+        180,
+        180
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-black-128.png",
+      "size": [
+        128,
+        128
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-black-16.png",
+      "size": [
+        16,
+        16
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-black-192.png",
+      "size": [
+        192,
+        192
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-black-32.png",
+      "size": [
+        32,
+        32
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-black-48.png",
+      "size": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-black-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-black-64.png",
+      "size": [
+        64,
+        64
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-black-96.png",
+      "size": [
+        96,
+        96
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-white-128.png",
+      "size": [
+        128,
+        128
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-white-16.png",
+      "size": [
+        16,
+        16
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-white-192.png",
+      "size": [
+        192,
+        192
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-white-32.png",
+      "size": [
+        32,
+        32
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-white-48.png",
+      "size": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-white-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-white-64.png",
+      "size": [
+        64,
+        64
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "icons/icon-white-96.png",
+      "size": [
+        96,
+        96
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "maskable/maskable-dark-192.png",
+      "size": [
+        192,
+        192
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "maskable/maskable-dark-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "maskable/maskable-light-192.png",
+      "size": [
+        192,
+        192
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "maskable/maskable-light-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "reference/original.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "maskable_checks": [
+    {
+      "file": "maskable-dark-192.png",
+      "max_foreground_radius_fraction": 0.3720405502185809,
+      "safe_zone_radius_fraction": 0.4,
+      "passed": true
+    },
+    {
+      "file": "maskable-dark-512.png",
+      "max_foreground_radius_fraction": 0.37417766687978793,
+      "safe_zone_radius_fraction": 0.4,
+      "passed": true
+    },
+    {
+      "file": "maskable-light-192.png",
+      "max_foreground_radius_fraction": 0.3720405502185809,
+      "safe_zone_radius_fraction": 0.4,
+      "passed": true
+    },
+    {
+      "file": "maskable-light-512.png",
+      "max_foreground_radius_fraction": 0.37417766687978793,
+      "safe_zone_radius_fraction": 0.4,
+      "passed": true
+    }
+  ],
+  "ico_sizes": [
+    [
+      16,
+      16
+    ],
+    [
+      32,
+      32
+    ],
+    [
+      48,
+      48
+    ],
+    [
+      64,
+      64
+    ],
+    [
+      128,
+      128
+    ],
+    [
+      256,
+      256
+    ]
+  ]
+}
